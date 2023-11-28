@@ -97,10 +97,11 @@ else:
 ## Sample Input and Output
 ![image](https://github.com/saiganesh2006/Search-Algorithm/assets/145742342/5e7d83e7-22b4-41d0-b325-ac28e1306846)
 ## OUTPUT:
+i)
 ![Screenshot 2023-11-28 134506](https://github.com/saiganesh2006/Search-Algorithm/assets/145742342/cdbbeeab-0686-4bbe-ad4e-332e3e71702e)
-
+ii)
 ![Screenshot 2023-11-28 134611](https://github.com/saiganesh2006/Search-Algorithm/assets/145742342/57d726cc-8375-49b7-aa03-150300e565d4)
-
+iii)
 ![Screenshot 2023-11-28 134705](https://github.com/saiganesh2006/Search-Algorithm/assets/145742342/18afdd96-4b19-4eb4-a5f7-e4bbda63075e)
 
 ## Result
